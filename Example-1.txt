@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 This is an Example-1.txt -- Merge testing
+=======
+This is an Example-1.txt  --> Added to test Merge PR
+>>>>>>> 04e671ae511831f2181f0dfeee06e65cea028eeb
 
 Edited from browser
 
